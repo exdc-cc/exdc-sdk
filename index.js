@@ -596,6 +596,8 @@ function EXDC_SHOP_SDK(params) {
     rateSeller,
     getExchangeContractData,
     exchangeContractAbi,
-    buyContractAbi
+    buyContractAbi,
+    categories,
+    products
   };
 }
